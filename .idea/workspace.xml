@@ -4,6 +4,7 @@
     <list default="true" id="2bbb4540-4b58-45a2-a703-33421079c519" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Coding_Skills/Coding_Skills.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-DI-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-DI-Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked/SingleLinkList.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked/SingleLinkList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fastdfs-demo/src/main/java/com/example/fastdfsdemo/fastdfsdemo/FastDFSClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fastdfs-demo/src/main/java/com/example/fastdfsdemo/fastdfsdemo/FastDFSClientUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../interview" beforeDir="false" afterPath="$PROJECT_DIR$/../interview" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../note/oracle/ITHEIMA.DBF" beforeDir="false" afterPath="$PROJECT_DIR$/../note/oracle/ITHEIMA.DBF" afterDir="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linked/SingleLinkList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1647">
-              <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            <state relative-caret-position="181">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
@@ -79,10 +80,10 @@
       <list>
         <option value="$PROJECT_DIR$/linked.SingleNode.py" />
         <option value="$PROJECT_DIR$/linked/SingleNode.py" />
-        <option value="$PROJECT_DIR$/linked/SingleLinkList.py" />
         <option value="$PROJECT_DIR$/sort/BubbleSort.py" />
         <option value="$PROJECT_DIR$/sort/SelectSort.py" />
         <option value="$PROJECT_DIR$/sort/InsertSort.py" />
+        <option value="$PROJECT_DIR$/linked/SingleLinkList.py" />
       </list>
     </option>
   </component>
@@ -134,6 +135,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -257,19 +259,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561084462572</updated>
-      <workItem from="1561084465111" duration="17359000" />
+      <workItem from="1561084465111" duration="17724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17359000" />
+    <option name="totallyTimeSpent" value="17724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="849" y="214" width="1139" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21872103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13994439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -348,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linked/SingleLinkList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1647">
-          <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        <state relative-caret-position="181">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,6 @@
 from linked.SingleNode import SingleNode
 
+
 class SingleLinkList:
     """单链表"""
     def __init__(self):
@@ -98,19 +99,20 @@ class SingleLinkList:
             cur = cur.next
         return False
 
+
 if __name__ == "__main__":
     """测试单向链表"""
-    list = SingleLinkList();
-    list.add(1)
-    list.add(3)
-    list.add(5)
-    list.add(8)
-    list.append(9)
-    list.append(10)
-    list.travel()
-    list.insert(2,4)
-    list.travel()
-    list.remove(9)
-    list.travel()
-    list.remove(8)
-    list.travel()
+    alist = SingleLinkList();
+    alist.add(1)
+    alist.add(3)
+    alist.add(5)
+    alist.add(8)
+    alist.append(9)
+    alist.append(10)
+    alist.travel()
+    alist.insert(2, 4)
+    alist.travel()
+    alist.remove(9)
+    alist.travel()
+    alist.remove(8)
+    alist.travel()
